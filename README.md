@@ -5,13 +5,13 @@ RSNA (Radiologist society of north america) provides records of 54000 patients t
 ## CNN model1
 
 
-#CNN model2
+##CNN model2
 
 
-#ResNet2
+##ResNet2
 
 
-#DenseNet
+##DenseNet
 
 
-#InceptionV3
+##InceptionV3
